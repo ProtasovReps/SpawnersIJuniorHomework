@@ -1396,7 +1396,7 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 7483295366341353839, guid: 3f5724b454b263745b7b93bdbcf7261b, type: 3}
   m_PrefabInstance: {fileID: 1887378171}
   m_PrefabAsset: {fileID: 0}
---- !u!114 &1180216188
+--- !u!114 &1180216192
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1695,7 +1695,7 @@ MonoBehaviour:
   _spawnDelay: 3
   _minReleaseDelay: 2
   _maxReleaseDelay: 6
-  _spawnpointSelector: {fileID: 1180216188}
+  _spawnpointSelector: {fileID: 1180216192}
 --- !u!1001 &1541069463
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2329,7 +2329,7 @@ PrefabInstance:
     m_AddedComponents:
     - targetCorrespondingSourceObject: {fileID: 7483295366341353839, guid: 3f5724b454b263745b7b93bdbcf7261b, type: 3}
       insertIndex: -1
-      addedObject: {fileID: 1180216188}
+      addedObject: {fileID: 1180216192}
   m_SourcePrefab: {fileID: 100100000, guid: 3f5724b454b263745b7b93bdbcf7261b, type: 3}
 --- !u!4 &1940812658 stripped
 Transform:
